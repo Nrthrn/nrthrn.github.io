@@ -65,21 +65,21 @@
         <img src="https://via.placeholder.com/800x400?text=PITZA+KUVA" alt="Paras Pitza Kuva">
         <div class="cta-buttons">
             <a href="#">Tilä NYT!!!</a>
-            <a href="#">Kato Menyy!</a>
+            <a href="#">Kato Mennyt!</a>
         </div>
     </div>
 
     <section class="facts">
         <h2>Miks Valitse Pitzza Grandiossa?</h2>
-        <div class="fact">🍕 Meijän pitsat on tehty salaisilla mausteilla, kuten <em>ilmakivi</em> ja <em>vettä!</em></div>
-        <div class="fact">🧀 Juusto tulee suoraa kaupan pakettista, ei ees revitty.</div>
-        <div class="fact">🔥 Paistettu 300 asteella. Kumpi? Celsius vai Kelvin? Me ei tiietä.</div>
-        <div class="fact">🥗 Salaatti? Ei meil oo. Mut otas pitsaa.</div>
-        <div class="fact">💡 Tiesitkö: "Grandiossa" tarkottaa SUURTA pizzasa! (Varmaan. Kuka tietää?)</div>
+        <div class="fact">meijan pitsa tehty paras sala aine jauha ja vasi</em></div>
+        <div class="fact">juusto tulee suoraan paketti</div>
+        <div class="fact">paistettu 500 aste että tulee nopae</div>
+        <div class="fact">salati? hyi vitu. iha paska</div>
+        <div class="fact">meiltä saa suuri pizsa </div>
     </section>
 
     <footer>
-        <p>&copy; 2024 Pitza Grandiossa. "Maku mikä ei unohdu... hyvässä tai pahassa."</p>
+        <p>&copy; 2024 Pitza Grandiossa</p>
     </footer>
 </body>
 </html>
