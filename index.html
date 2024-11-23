@@ -85,28 +85,11 @@
     </section>
 
     <div class="view-counter">
-        Page views: <span id="viewCount">0</span>
+        monta arvio. kakki arvio ola 5/5
     </div>
 
     <footer>
         <p>&copy; 2024 Pitza Grandiossa</p>
     </footer>
-
-    <script>
-        // Function to update and display view count
-        function updateViewCount() {
-            // Get the current view count from localStorage
-            let views = localStorage.getItem('pageViews');
-            if (!views) {
-                views = 0; // If no views found, start at 0
-            }
-            views = parseInt(views) + 1; // Increment the view count
-            localStorage.setItem('pageViews', views); // Save updated count back to localStorage
-            document.getElementById('viewCount').textContent = views; // Display the view count
-        }
-
-        // Call the function when the page loads
-        updateViewCount();
-    </script>
 </body>
 </html>
